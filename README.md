@@ -1,9 +1,9 @@
 # 👋 สวัสดีครับ! I'm Gun
 
-🎓 3rd-year Robotics Engineering student at **KMUTNB**  
-💡 Passionate about **Bio-robotic**, **AI**, and **Computer Vision**  
-👨‍🏫 Currently a **Computer Programming TA** – helping others level up in C/C++ and embedded logic 
-🔧 Working with **ESP32**, **Data Analysis**, **OpenCV**, **MATLAB/Simulink**, **ROS**, and more!
+- 🎓 3rd-year Robotics Engineering student at **KMUTNB**  
+- 💡 Passionate about **Bio-robotic**, **AI**, and **Computer Vision**  
+- 👨‍🏫 Currently a **Computer Programming TA** – helping others level up in C/C++ and embedded logic 
+- 🔧 Working with **ESP32**, **Data Analysis**, **OpenCV**, **MATLAB/Simulink**, **ROS**, and more!
 
 ---
 
