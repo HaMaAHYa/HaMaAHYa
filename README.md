@@ -1,16 +1,39 @@
-<h1 align="center">Hello, folks! 👋</h1>
-<h3 align="center">My name is Thanakorn Sonchit but you can call me Gun. I'm a student in Thailand, doing some Front-End and Back-End.</h3>
+# 👋 สวัสดีครับ! I'm Gun
 
-## 🛠 Skills
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+🎓 3rd-year Robotics Engineering student at **KMUTNB**  
+💡 Passionate about **Bio-robotic**, **AI**, and **Computer Vision**  
+👨‍🏫 Currently a **Computer Programming TA** – helping others level up in C/C++ and embedded logic 
+🔧 Working with **ESP32**, **Data Analysis**, **OpenCV**, **MATLAB/Simulink**, **ROS**, and more!
 
-## 🚀 Let's keep in touch
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tks-react-portfolio.web.app/)
-[![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thanakorn.sonchit)
-[![Instagram](https://img.shields.io/badge/instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/booppythegunner/)
-[![Linkin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanakorn-sonchit-b113a0246/)
+---
 
+### 🛠️ Tech Stack
+- **Languages**: C/C++, Python, MATLAB, Bash  
+- **Tools**: VSCode, Ubuntu, Git  
+- **Robotics**: ROS1/ROS2
+- **Computer Vision**: OpenCV, Image Filters, Object Detection  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamaahya&show_icons=true&locale=en&layout=compact" alt="hamaahya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamaahya&show_icons=true&locale=en" alt="hamaahya" /></p>
+### 📌 Current Projects
+- 🤖 Autonomous robot using ROS2 and ESP32  
+- 🧠 Image processing pipeline to detect white blood cells using OpenCV  
+- 💻 Teaching assistant prep for C/C++ and python class  
+
+---
+
+### 🌱 I'm Learning
+- Advanced **Robotic Engineering** and launch files   
+- Improving my **Japanese 🇯🇵** for study & communication  
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: gunner.gun27@gmail.com
+- 🌏 From: Thailand 🇹🇭  
+
+---
+
+> “Learning by teaching, growing by building.”
+
+Thanks for visiting! 😄
