@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ! I'm Gun
+# 👋 สวัสดีครับ! I'm Djinn
 
 - 🎓 3rd-year Robotics Engineering student at **KMUTNB**  
 - 💡 Passionate about **Bio-robotic**, **AI**, and **Computer Vision**  
