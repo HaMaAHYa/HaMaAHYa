@@ -34,6 +34,6 @@
 
 ---
 
-> “Learning by teaching, growing by building.”
+> “It's not how much time you have, it's how you use it.”
 
 Thanks for visiting! 😄
